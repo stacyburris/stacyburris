@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>  
   
 
-### <div align="center">I'm Stacy, team focused developer 👩🏼‍💻 seeking an entry-level opportunity for a software engineering role 🦋</div>  
+### <div align="center">I'm Stacy, team focused developer 👩🏼‍💻 <br/> seeking an entry-level opportunity for a software engineering role 🦋</div>  
   
 
 - 🔭 I’m currently working on [Cosmic Deluxe Adventure LTD](https://github.com/Cosmic-Deluxe-Adventure-Limited/CosmicDeluxeAdventureLTD)  
@@ -29,11 +29,14 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Typescript
   
-
-- ❓ Ask me about anything you might be curious about. Always here for a great discussion to learn something new!  
   
+- ❓ Ask me about anything you might be curious to know. I'm always here for a great discussion to learn something new!  
+  
+  
+- 😄 Pronouns: She/Her
 
-- ⚡ Fun fact: I might be obsessed with the color 🟡...also I can never decide between ☕️ or 🫖 ...usually ☕️ is the winner though ✨ Anyone with me? 😅 
+
+- ⚡ Fun fact: I might be obsessed with the color 🟡 ...also I can never decide between ☕️ or 🫖 ...usually ☕️ is the winner though ✨ Anyone with me? 😅 
   
 
 <br/>  
