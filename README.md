@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 </div>  
   
 
-### <div align="center">I'm Stacy, a highly-motivated team focused developer 👩🏼‍💻 seeking an entry-level opportunity for a software engineering role 🦋</div>  
+### <div align="center">I'm Stacy, team focused developer 👩🏼‍💻 seeking an entry-level opportunity for a software engineering role 🦋</div>  
   
 
 - 🔭 I’m currently working on [Cosmic Deluxe Adventure LTD](https://github.com/Cosmic-Deluxe-Adventure-Limited/CosmicDeluxeAdventureLTD)  
   
 
-- 🌱 I’m currently learning Typescript  
+- 🌱 I’m currently learning Typescript
   
 
-- ❓ Ask me about anything you might be curious about. Always here for a great discussion and opotunity to learn something new  
+- ❓ Ask me about anything you might be curious about. Always here for a great discussion to learn something new!  
   
 
-- ⚡ Fun fact: I might be obsessed with the color yellow...also I can never decide between coffee ☕️ or tea 🫖 ...usually coffee is the winner though ✨
+- ⚡ Fun fact: I might be obsessed with the color 🟡...also I can never decide between ☕️ or 🫖 ...usually ☕️ is the winner though ✨ Anyone with me? 😅 
   
 
 <br/>  
