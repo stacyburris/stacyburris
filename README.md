@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Stacy, team focused developer 👩🏼‍💻 <br/> seeking an entry-level opportunity for a software engineering role 🦋</div>  
+### <div align="center">I'm Stacy, a team focused developer 👩🏼‍💻 <br/> seeking an entry-level opportunity for a software engineering role 🦋</div>  
   
 
 - 🔭 I’m currently working on [Cosmic Deluxe Adventure LTD](https://github.com/Cosmic-Deluxe-Adventure-Limited/CosmicDeluxeAdventureLTD)  
