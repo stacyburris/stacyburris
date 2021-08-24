@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Stacy, a team focused software engineer 👩🏼‍💻 <br/> former cosmetologist, educator and mentor breaking into tech! 🦋</div>  
+### <div align="center">I'm Stacy, a team focused Software Engineer 👩🏼‍💻 <br/> former Cosmetologist, Educator and Mentor breaking into tech! 🦋</div>  
   
 
 - 🔭 I’m currently working on [Cosmic Deluxe Adventure LTD](https://github.com/Cosmic-Deluxe-Adventure-Limited/CosmicDeluxeAdventureLTD)  
