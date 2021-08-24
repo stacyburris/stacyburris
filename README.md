@@ -1,16 +1,16 @@
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100px" />
 </div>  
   
 
-### <div align="center">I'm Stacy, a team focused developer 👩🏼‍💻 <br/> seeking an entry-level opportunity for a software engineering role 🦋</div>  
+### <div align="center">I'm Stacy, a team focused software engineer 👩🏼‍💻 <br/> former cosmetologist, educator and mentor breaking into tech! 🦋</div>  
   
 
 - 🔭 I’m currently working on [Cosmic Deluxe Adventure LTD](https://github.com/Cosmic-Deluxe-Adventure-Limited/CosmicDeluxeAdventureLTD)  
   
 
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning React!
   
   
 - ❓ Ask me about anything you might be curious to know. I'm always here for a great discussion to learn something new!  
