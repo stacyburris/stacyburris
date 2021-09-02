@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 500px" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 700px" />
 </div>  
   
 
