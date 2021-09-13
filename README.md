@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [Cosmic Deluxe Adventure LTD](https://github.com/Cosmic-Deluxe-Adventure-Limited/CosmicDeluxeAdventureLTD)  
   
-
+<!-- 
 - 🌱 I’m currently learning React!
   
   
-- ❓ Ask me about anything you might be curious to know. I'm always here for a great discussion to learn something new!  
+- ❓ Ask me about anything you might be curious to know. I'm always here for a great discussion to learn something new!   -->
   
   
 - 😄 Pronouns: She/Her
