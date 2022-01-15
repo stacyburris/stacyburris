@@ -7,10 +7,10 @@
 ### <div align="center">I'm Stacy, a team focused Software Engineer 👩🏼‍💻 <br/> former Cosmetologist, Educator and Mentor breaking into tech! 🦋</div>  
   
 
-- 🔭 I’m currently working on [Cosmic Deluxe Adventure LTD](https://github.com/Cosmic-Deluxe-Adventure-Limited/CosmicDeluxeAdventureLTD)  
+- 🔭 I’m currently working on [Gentle Ben's Brewery App](https://github.com/stacyburris/keeptrack-gentlebens)  
   
  
-- 🌱 I’m currently learning Typescript!
+- 🌱 I’m currently learning Typescript, Terraform and Contentful!
   
   
 <!-- - ❓ Ask me about anything you might be curious to know. I'm always here for a great discussion to learn something new! 
@@ -19,7 +19,7 @@
 - 😄 Pronouns: She/Her
 
 
-- ⚡ Fun fact: I might be obsessed with the color 🟡 ...also I can never decide between ☕️ or 🫖 ...usually ☕️ is the winner though ✨ Anyone with me? 😅 
+<!-- - ⚡ Fun fact:  -->
   
 
 <br/>  
