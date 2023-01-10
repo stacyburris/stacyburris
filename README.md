@@ -4,13 +4,13 @@
 </div>  
   
 
-### <div align="center">I'm Stacy, a team focused Software Engineer 👩🏼‍💻 <br/> former Cosmetologist, Educator and Mentor breaking into tech! 🦋</div>  
+### <div align="center">I'm Stacy, a team focused Software Engineer 👩🏼‍💻 <br/> currently working on the Personalization team at lululemon</div>  
   
 
-- 🔭 I’m currently working on [Gentle Ben's Brewery App](https://github.com/stacyburris/keeptrack-gentlebens)  
+<!-- - 🔭 I’m currently working on [Gentle Ben's Brewery App](https://github.com/stacyburris/keeptrack-gentlebens)  
   
  
-- 🌱 I’m currently learning Typescript, Terraform and Contentful!
+- 🌱 I’m currently learning Typescript, Terraform and Contentful! -->
   
   
 <!-- - ❓ Ask me about anything you might be curious to know. I'm always here for a great discussion to learn something new! 
@@ -37,7 +37,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />    
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
