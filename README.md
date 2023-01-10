@@ -16,7 +16,7 @@
 <!-- - ❓ Ask me about anything you might be curious to know. I'm always here for a great discussion to learn something new! 
    -->
   
-- 😄 Pronouns: She/Her
+<!-- 😄 Pronouns: She/Her -->
 
 
 <!-- - ⚡ Fun fact:  -->
@@ -70,7 +70,7 @@
 <br/>  
 
 
-## Connect with me  
+## Let's connect!  
 <div align="center">
 <a href="https://github.com/stacyburris" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
